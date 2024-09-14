@@ -1,0 +1,11 @@
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0\Bhaskara.deps.json
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0\Bhaskara.dll
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0\Bhaskara.pdb
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfo.cs
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.dll
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\refint\Bhaskara.dll
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\Bhaskara.pdb
+C:\Users\Aluno-SESI\Desktop\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0\ref\Bhaskara.dll
