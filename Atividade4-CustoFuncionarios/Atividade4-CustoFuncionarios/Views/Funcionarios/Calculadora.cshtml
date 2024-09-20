@@ -1,0 +1,25 @@
+﻿@model FuncionarioModel
+
+<h1 class="text-black text-center m-auto">Calculadora</h1>
+
+<form asp-controller="Funcionarios" asp-action="Calcular" method="post" style="display:flex">
+    <div>
+        <label class="m-3">Nome:</label>
+        <input asp-for="Nome" />
+    </div>
+    <div>
+        <label class="m-3">Salário Base:</label>
+        <input asp-for="SalarioBase" />
+    </div>
+    <div>
+        <label class="m-3">Desconto:</label>
+        <input asp-for="Desconto" />
+    </div>
+    <div>
+        <label class="m-3">Benefício:</label>
+        <input asp-for="Beneficio" />
+    </div>
+    <button type="submit" class="m-3">Calcular</button>
+</form>
+
+

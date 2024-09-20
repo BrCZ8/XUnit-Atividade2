@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B206AA9-7979-471D-AED1-F5EAC65C5CB4}|TestarCalculadora\\TestarCalculadora.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\testarcalculadora\\calctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B206AA9-7979-471D-AED1-F5EAC65C5CB4}|TestarCalculadora\\TestarCalculadora.csproj|solutionrelative:testarcalculadora\\calctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\controllers\\funcionarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\views\\funcionarios\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\views\\funcionarios\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\views\\funcionarios\\calculadora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\views\\funcionarios\\calculadora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|c:\\users\\bruno\\desktop\\atividade4-custofuncionarios\\atividade4-custofuncionarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2848F4B3-EEA4-4A17-8E64-3F7AB5BB7E86}|Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios.csproj|solutionrelative:atividade4-custofuncionarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:46:01.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:51:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\TestarCalculadora\\CalcTest.cs",
+              "RelativeDocumentMoniker": "TestarCalculadora\\CalcTest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\TestarCalculadora\\CalcTest.cs",
+              "RelativeToolTip": "TestarCalculadora\\CalcTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:07:11.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Controllers\\FuncionariosController.cs",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Controllers\\FuncionariosController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Controllers\\FuncionariosController.cs",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Controllers\\FuncionariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:45:58.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Program.cs",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:47:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Resultado.cshtml",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Resultado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T21:22:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculadora.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Calculadora.cshtml",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Calculadora.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Calculadora.cshtml",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Views\\Funcionarios\\Calculadora.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T20:45:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Atividade4-CustoFuncionarios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Atividade4-CustoFuncionarios\\Atividade4-CustoFuncionarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Atividade4-CustoFuncionarios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T20:48:35.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
